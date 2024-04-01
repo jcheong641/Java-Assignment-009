@@ -16,7 +16,7 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+The answers are no longer correct because int is less capable of comprehending large numbers, leading to incorrect answers as you reach higher integers.
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +26,7 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+Yes, it is correct up to 30, and it can reach much higher numbers with this modified code.
 ```
 
 ## Submission
